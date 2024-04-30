@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Professional experience
 
-⚙️ As a freelance full-stack web developer:
+#### ⚙️ Freelance full-stack web developer
 
 - 8 years of developing single-page web applications in B2B and B2C contexts (Club Med, Oyez, Mi Casa Es Tu Casa, Team Junior Mentor & self-owned projects)
 - with the following stack:
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   - _third-party services_: Stripe, Mailjet, Resend, Google and Facebook sign-in
 - 18 months of technical leadership and mentorship to bootstrap a web application from the ground up (Team Junior Mentor & Penco)
 
-👨‍🏫 As a freelance teacher and trainer:
+#### 👨‍🏫 Freelance teacher and trainer
 
 - 6 years of teaching the same stack to over 150 students at Wild Code School, preparing them for professional certifications while guiding them in the development of their own group projects
 - short courses at ESGI engineering school on specific matters (TypeScript, React, automated testing, version control)
