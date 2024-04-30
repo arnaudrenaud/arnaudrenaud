@@ -13,27 +13,33 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🏢 Professional experience
+### 🏢 Professional curriculum
 
-After graduating from UTC engineering school in 2014, I have been working as a freelancer since 2016:
+Graduated from UTC (Compiègne, France) in 2014.
 
-#### ⚙️ Full-stack web developer
+Working as a freelancer since 2016.
+
+#### 📝 Full-stack web developer
 
 - 8 years of developing single-page web applications in B2B and B2C contexts (Club Med, Oyez, Mi Casa Es Tu Casa, Team Junior Mentor & self-owned projects)
-- with the following stack:
-  - _language:_ JavaScript–TypeScript
-  - _toolchain_: Node.js & NPM
-  - _user interface_: React (Next.js), Redux
-  - _styling_: Tailwind, styled-components
-  - _client-server API_: Apollo (GraphQL), Express
-  - _testing_: Jest, React Testing Library
-  - _ORM_: Prisma, TypeORM
-  - _database_: Postgres, MongoDB
-  - _file management_: S3
-  - _containerization_: Docker, Docker Compose
-  - _operations_: GitHub Actions, nginx, caddy, systemd, journald, AWS EC2 & Lambda, Scaleway serverless containers, Terraform
-  - _third-party services_: Stripe, Mailjet, Resend, Google and Facebook sign-in
 - 18 months of technical leadership and mentorship to bootstrap a web application from the ground up (Team Junior Mentor & Penco)
+
+#### ⚙️ Technical stack
+
+|                        |                                                                                                              |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------ |
+| _language_             | JavaScript–TypeScript                                                                                        |
+| _toolchain_            | Node.js & NPM                                                                                                |
+| _user interface_       | React (Next.js), Redux                                                                                       |
+| _styling_              | Tailwind, styled-components                                                                                  |
+| _client-server API_    | Apollo (GraphQL), Express                                                                                    |
+| _testing_              | Jest, React Testing Library                                                                                  |
+| _ORM_                  | Prisma, TypeORM                                                                                              |
+| _database_             | Postgres, MongoDB                                                                                            |
+| _file management_      | S3                                                                                                           |
+| _containerization_     | Docker, Docker Compose                                                                                       |
+| _operations_           | GitHub Actions, nginx, caddy, systemd, journald, AWS EC2 & Lambda, Scaleway serverless containers, Terraform |
+| _third-party services_ | Stripe, Mailjet, Resend, Google and Facebook sign-in                                                         |
 
 #### 👨‍🏫 Teacher and trainer
 
