@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🏢 Professional curriculum
+### 📝 Resume
 
 Graduated from UTC (Compiègne, France) in 2014.
 
 Working as a freelancer since 2016.
 
-#### 📝 Full-stack web developer
+#### 🧑‍💻 Full-stack web developer
 
 - 8 years of developing single-page web applications in B2B and B2C contexts (Club Med, Oyez, Mi Casa Es Tu Casa, Team Junior Mentor & self-owned projects)
 - 18 months of technical leadership and mentorship to bootstrap a web application from the ground up (Team Junior Mentor & Penco)
