@@ -34,5 +34,5 @@ Working as a freelancer since 2016.
 
 ### 🌱 Self-owned projects
 
-- Filmorama ([www.filmorama.app](https://www.filmorama.app)) — Browse through hundreds of films currently in theaters in Paris, from the blockbusters to the hidden gems, bookmark your favorite ones and get notified when they are on screen
-- form-to-email ([www.form-to-email.com](https://www.form-to-email.com)) — Receive an email every time your web form is submitted, serverless: no back end needed for a contact or appointment form, no server, no script, no email API subscription
+- Filmorama ([:link: www.filmorama.app](https://www.filmorama.app)) — Browse through hundreds of films currently in theaters in Paris, from the blockbusters to the hidden gems, bookmark your favorite ones and get notified when they are on screen
+- form-to-email ([:link: www.form-to-email.com](https://www.form-to-email.com)) — Receive an email every time your web form is submitted, serverless: no back end needed for a contact or appointment form, no server, no script, no email API subscription
