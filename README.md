@@ -1,18 +1,3 @@
-<!--
-**arnaudrenaud/arnaudrenaud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### 📝 Resume
 
 Graduated from UTC (Compiègne, France) in 2014.
@@ -21,10 +6,16 @@ Working as a freelancer since 2016.
 
 #### 🧑‍💻 Full-stack web developer
 
-- 8 years of developing single-page web applications in B2B and B2C contexts (Club Med, Oyez, Mi Casa Es Tu Casa, Team Junior Mentor & self-owned projects)
+- 8 years of developing web applications in B2B and B2C contexts (Club Med, Oyez, Mi Casa Es Tu Casa, Team Junior Mentor & self-owned projects)
 - 18 months of technical leadership and mentorship to bootstrap a web application from the ground up (Team Junior Mentor & Penco)
 
-#### ⚙️ Technical stack
+#### 👨‍🏫 Teacher and trainer
+
+- 6 years of teaching full-stack web development to over 150 students at Wild Code School, preparing them for professional certifications while guiding them in the development of their own group projects
+- short courses at ESGI engineering school on specific matters (TypeScript, React, automated testing, version control)
+- one-on-one mentorship sessions to help developers improve in specific areas (JavaScript & TypeScript, automated testing)
+
+### ⚙️ Technical stack
 
 |                        |                                                                                                              |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------ |
@@ -40,12 +31,6 @@ Working as a freelancer since 2016.
 | _containerization_     | Docker, Docker Compose                                                                                       |
 | _operations_           | GitHub Actions, nginx, caddy, systemd, journald, AWS EC2 & Lambda, Scaleway serverless containers, Terraform |
 | _third-party services_ | Stripe, Mailjet, Resend, Google and Facebook sign-in                                                         |
-
-#### 👨‍🏫 Teacher and trainer
-
-- 6 years of teaching the same stack to over 150 students at Wild Code School, preparing them for professional certifications while guiding them in the development of their own group projects
-- short courses at ESGI engineering school on specific matters (TypeScript, React, automated testing, version control)
-- one-on-one mentorship contracts to help developers improve in specific areas (JavaScript & TypeScript, automated testing)
 
 ### 🌱 Self-owned projects
 
