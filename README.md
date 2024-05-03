@@ -12,8 +12,10 @@ Working as a freelancer since 2016.
 #### 👨‍🏫 Teacher and trainer
 
 - 6 years of teaching full-stack web development to over 150 students at Wild Code School, preparing them for professional certifications while guiding them in the development of their own group projects
-- short courses at ESGI engineering school on specific matters (TypeScript, React, automated testing, version control)
-- one-on-one mentorship sessions to help developers improve in specific areas (JavaScript & TypeScript, automated testing)
+- short courses at ESGI engineering school on TypeScript, React, automated testing, version control
+- one-on-one mentorship sessions to help developers improve in specific areas: JavaScript & TypeScript, automated testing
+
+Full resume on [🔗 LinkedIn](https://www.linkedin.com/in/arnaudrenaud/).
 
 ### ⚙️ Technical stack
 
@@ -34,5 +36,5 @@ Working as a freelancer since 2016.
 
 ### 🌱 Self-owned projects
 
-- [:link: Filmorama](https://www.filmorama.app) — Browse through hundreds of films currently in theaters in Paris, from the blockbusters to the hidden gems, bookmark your favorite ones and get notified when they are on screen
-- [:link: form-to-email](https://www.form-to-email.com) — Receive an email every time your web form is submitted, serverless: no back end needed for a contact or appointment form, no server, no script, no email API subscription
+- [🔗 Filmorama](https://www.filmorama.app) — Browse through hundreds of films currently in theaters in Paris, from the blockbusters to the hidden gems, bookmark your favorite ones and get notified when they are on screen
+- [🔗 form-to-email](https://www.form-to-email.com) — Receive an email every time your web form is submitted, serverless: no back end needed for a contact or appointment form, no server, no script, no email API subscription
