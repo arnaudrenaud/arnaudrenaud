@@ -2,7 +2,7 @@
 
 Graduated from UTC (Compiègne, France) in 2014.
 
-Working as a freelancer since 2016.
+Working as a freelancer since 2016:
 
 #### 🧑‍💻 Full-stack web developer
 
