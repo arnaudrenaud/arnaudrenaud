@@ -19,20 +19,21 @@ Full resume on [🔗 LinkedIn](https://www.linkedin.com/in/arnaudrenaud/).
 
 ### ⚙️ Technical stack
 
-|                        |                                                                                                              |
-| ---------------------- | ------------------------------------------------------------------------------------------------------------ |
-| _language_             | JavaScript–TypeScript                                                                                        |
-| _toolchain_            | Node.js & NPM                                                                                                |
-| _user interface_       | React (Next.js), Redux                                                                                       |
-| _styling_              | Tailwind, styled-components                                                                                  |
-| _client-server API_    | Apollo (GraphQL), Express                                                                                    |
-| _testing_              | Jest, React Testing Library                                                                                  |
-| _ORM_                  | Prisma, TypeORM                                                                                              |
-| _database_             | Postgres, MongoDB                                                                                            |
-| _file management_      | S3                                                                                                           |
-| _containerization_     | Docker, Docker Compose                                                                                       |
-| _operations_           | GitHub Actions, nginx, caddy, systemd, journald, AWS EC2 & Lambda, Scaleway serverless containers, Terraform |
-| _third-party services_ | Stripe, Mailjet, Resend, Google and Facebook sign-in                                                         |
+|                           |                                                                                                                  |
+|---------------------------|------------------------------------------------------------------------------------------------------------------|
+| _language_                | JavaScript & TypeScript                                                                                          |
+| _toolchain_               | Node.js & NPM                                                                                                    |
+| _user interface_          | React (Next.js)                                                                                                  |
+| _global state management_ | React Context API, Redux                                                                                         |
+| _styling_                 | Tailwind, styled-components                                                                                      |
+| _client-server API_       | Apollo (GraphQL), Express                                                                                        |
+| _testing_                 | Jest, React Testing Library                                                                                      |
+| _ORM_                     | Prisma, TypeORM                                                                                                  |
+| _database_                | Postgres, MongoDB                                                                                                |
+| _file management_         | S3                                                                                                               |
+| _containerization_        | Docker, Docker Compose                                                                                           |
+| _operations_              | GitHub Actions, nginx, caddy, systemd, journald, AWS EC2 & Lambda, Scaleway serverless containers, Terraform     |
+| _third-party services_    | Stripe, Mailjet, Resend, Google and Facebook sign-in                                                             |
 
 ### 🌱 Self-owned projects
 
