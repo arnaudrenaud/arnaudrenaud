@@ -12,7 +12,7 @@ Working as a freelancer since 2016:
 #### 👨‍🏫 Teacher and trainer
 
 - 6 years of teaching full-stack web development to over 150 students at Wild Code School, preparing them for professional certifications while guiding them in the development of their own group projects
-- short courses at ESGI engineering school on TypeScript, React, automated testing, version control
+- courses at ESGI engineering school on TypeScript, React, automated testing, version control
 - one-on-one mentorship sessions to help developers improve in specific areas: JavaScript & TypeScript, automated testing
 
 Full resume on [🔗 LinkedIn](https://www.linkedin.com/in/arnaudrenaud/).
