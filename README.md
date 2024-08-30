@@ -21,6 +21,7 @@ Full resume on [🔗 LinkedIn](https://www.linkedin.com/in/arnaudrenaud/).
 
 - [🔗 Filmorama](https://www.filmorama.app) — Browse through hundreds of films currently in theaters in Paris, from the blockbusters to the hidden gems, bookmark your favorite ones and get notified when they are on screen
 - [🔗 form-to-email](https://www.form-to-email.com) — Receive an email every time your web form is submitted, serverless: no back end needed for your contact form or landing page, no script, no email API subscription
+- [🔗 arnaudrenaud.com](https://www.arnaudrenaud.com) — Portfolio and software engineering blog
 
 ### ⚙️ Technical stack
 
