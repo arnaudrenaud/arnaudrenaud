@@ -1,16 +1,12 @@
 ### 📝 Resume
 
-Graduated from UTC (Compiègne, France) in 2014.
+Freelance software engineer and trainer specialized in web applications and automated testing.
 
-Working as a freelancer since 2016:
+#### 🧑‍💻 Engineer:
+- 10 years of developing web applications in B2B and B2C contexts (Servier, Club Med, Oyez, Mi Casa Es Tu Casa, Team Junior Mentor & self-owned projects)
+- 3 years of technical leadership and mentorship to bootstrap web applications and a framework from the ground up (Servier, Team Junior Mentor & Penco)
 
-#### 🧑‍💻 Full-stack web developer
-
-- 8 years of developing web applications in B2B and B2C contexts (Club Med, Oyez, Mi Casa Es Tu Casa, Team Junior Mentor & self-owned projects)
-- 18 months of technical leadership and mentorship to bootstrap a web application from the ground up (Team Junior Mentor & Penco)
-
-#### 👨‍🏫 Teacher and trainer
-
+#### 👨‍🏫 Trainer and coach:
 - 6 years of teaching full-stack web development to over 150 students at Wild Code School, preparing them for professional certifications while guiding them in the development of their own group projects
 - courses at ESGI engineering school on TypeScript, React, automated testing, version control
 - one-on-one mentorship sessions to help developers improve in specific areas: JavaScript & TypeScript, automated testing
