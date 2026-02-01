@@ -3,7 +3,7 @@
 Freelance software engineer and trainer specialized in web applications and automated testing.
 
 #### 🧑‍💻 Engineer
-- 10 years of developing web applications in B2B and B2C contexts (Servier, Club Med, Oyez, Mi Casa Es Tu Casa, Team Junior Mentor & self-owned projects)
+- 10 years of web application development in B2B and B2C contexts (Servier, Club Med, Oyez, Mi Casa Es Tu Casa, Team Junior Mentor & self-owned projects)
 - 3 years of technical leadership and mentorship to bootstrap web applications and a framework from the ground up (Servier, Team Junior Mentor & Penco)
 
 #### 👨‍🏫 Trainer and coach
